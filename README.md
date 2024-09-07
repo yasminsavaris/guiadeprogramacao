@@ -1,4 +1,5 @@
 🚀 Guia para Iniciantes em Programação
+
 Bem-vindo ao Guia para Iniciantes em Programação! 🎉
 
 Se você está começando a se aventurar no mundo da programação, esse é o lugar perfeito para você. Nosso objetivo é ajudar você a encontrar de forma simples e rápida os principais conceitos de programação, além de fornecer links úteis para se aprofundar nos assuntos.
